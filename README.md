@@ -1,12 +1,37 @@
-Hello and welcome to the Computer Science Club's Spring 2019 project! 
+# Space Shooter 9000
+*College of the Canyon's Computer Science Club's Fall 2017 project (expanded upon by Hunter Goodin)* 
 
-Each of you has been assigned a task that you can view here: https://docs.google.com/spreadsheets/d/1t-LP74rc4Cb3FGGQ_dNucH8P1wZABYSJn35-6Eegefs/edit?usp=sharing
+https://coc-computerscienceclub.itch.io/legend-of-fantasy
 
-Please be running on this version of Unity: https://download.unity3d.com/download_unity/eb4bc6fa7f1d/UnityDownloadAssistant-2017.4.22f1.exe 
+<img src="https://huntergoodin.com/images/devphotos/LoFLogo.png" width="347" height="229" />
 
-When tackling your project, you will be expected to make a new branch and do your work on that branch. When you are done with your project, you can feel free to make a pull request. When the request is seen, your work will be evaluated and then added to the game. 
+<details>
+<summary>Specs</summary>
+<blockquote>
 
-Thank you, and good luck! I know you will all do great! 
+Unity 2017.4.22f1 
+https://download.unity3d.com/download_unity/eb4bc6fa7f1d/UnityDownloadAssistant-2017.4.22f1.exe
 
-- Hunter Goodin 
+SLN solution in Visual Studio Community 2019 Preview 
+https://visualstudio.microsoft.com/vs/community/
 
+</blockquote>
+</details>
+
+<details>
+<summary>Change List</summary>
+<blockquote>
+
+<details>
+<summary>CL-000000 (The First Update)</summary>
+<blockquote>
+
+- Made the following changes: 
+	- Added project as it was in the old repository
+	- Edited the README to reflect the above changes 
+
+</blockquote>
+</details>
+
+</blockquote>
+</details>
