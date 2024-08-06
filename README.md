@@ -1,5 +1,5 @@
-# Space Shooter 9000
-*College of the Canyon's Computer Science Club's Fall 2017 project (expanded upon by Hunter Goodin)* 
+# Legend of Fantasy
+*College of the Canyon's Computer Science Club's Spring 2019 project (expanded upon by Hunter Goodin)* 
 
 https://coc-computerscienceclub.itch.io/legend-of-fantasy
 
